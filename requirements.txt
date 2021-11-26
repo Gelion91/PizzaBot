@@ -1,0 +1,4 @@
+transitions~=0.8.10
+python-telegram-bot==12.4.2
+requests~=2.26.0
+pymongo~=3.12.1
